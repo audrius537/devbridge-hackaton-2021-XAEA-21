@@ -1,6 +1,4 @@
-#Bonus task 2
-
-Have Maven and JDK version 11+ set up.
+#task 3
 
 In Command line cd into project.
 
