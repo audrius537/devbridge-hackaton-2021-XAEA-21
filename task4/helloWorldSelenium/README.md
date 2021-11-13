@@ -1,11 +1,9 @@
-#Sudoku
+#CHATBOT CHALLENGE
 
-Have Maven and JDK version 11+ set up.
+Prerequisites
 
-In Command line cd into project.
+run 2 chrome instances using cmd 
 
-Execute command:
+* chrome.exe --remote-debugging-port=9668 --user-data-dir=C:\Code\chromedata
 
-    mvn test
-    
-Test artifacts present in target/ directory.
+* chrome.exe --remote-debugging-port=9669 --user-data-dir=C:\Code\chromedata2
